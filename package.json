@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "cesium-graph-es": "github:QingMings/cesium-graph-es",
+    "cesium-navigation-es": "github:QingMings/cesium-navigation-es",
     "cesium-sensor-volumes-es": "github:QingMings/cesium-sensor-volumes-es",
     "satellite.js": "^4.1.3"
   },
